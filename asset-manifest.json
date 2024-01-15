@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Brand-slogan-kite-page/static/css/main.f1054ff8.css",
+    "main.js": "/Brand-slogan-kite-page/static/js/main.b44c294a.js",
+    "static/js/787.05bc4f41.chunk.js": "/Brand-slogan-kite-page/static/js/787.05bc4f41.chunk.js",
+    "static/media/banner.jpg": "/Brand-slogan-kite-page/static/media/banner.5904fca94b77fbf29af5.jpg",
+    "static/media/image.jpg": "/Brand-slogan-kite-page/static/media/image.aa02db75a776cee1caa5.jpg",
+    "index.html": "/Brand-slogan-kite-page/index.html",
+    "main.f1054ff8.css.map": "/Brand-slogan-kite-page/static/css/main.f1054ff8.css.map",
+    "main.b44c294a.js.map": "/Brand-slogan-kite-page/static/js/main.b44c294a.js.map",
+    "787.05bc4f41.chunk.js.map": "/Brand-slogan-kite-page/static/js/787.05bc4f41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1054ff8.css",
+    "static/js/main.b44c294a.js"
+  ]
+}
