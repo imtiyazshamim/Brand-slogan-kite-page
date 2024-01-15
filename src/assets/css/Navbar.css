@@ -1,0 +1,7 @@
+.nav {
+    background: #e4e4e4;
+}
+.Nav-logo {
+    display: inline-block;
+}
+.Nav-logo img{height:100px;padding:10px 0px 5px 0px;}
